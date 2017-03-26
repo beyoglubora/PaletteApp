@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paletteText">#FFFFFF</color>
+    <color name="blackTextTrans">#C100</color>
+    <color name="C">#c1fc5dc7</color>
+    <color name="O">#c198FFF7</color>
+    <color name="L">#c1f22b2b</color>
+    <color name="O2">#c15fef4c</color>
+    <color name="R">#c1d3e512</color>
+    <color name="S">#c1c83ce8</color>
+    <color name="galleryBackground">#FFFFFF</color>
+    <color name="background">#98FFF7</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">palette</string>
+    <string name="inputText">
+    <![CDATA[
+      <p>The value of input is <font color=#00ff00>positive</font> now.</p>
+    ]]>
+</string>
+</resources>
